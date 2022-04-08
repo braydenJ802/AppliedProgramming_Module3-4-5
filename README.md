@@ -7,9 +7,9 @@ This is a multi-faceted project combining modules 3, 4, and 5 (Networking, Mobil
 
 This small application features simple game mechanics, mobile app interface and input, and networking. I created this to improve my skills in creating a small game/app and exporting it for android. I believe this project has helped me increase my knowledge with this game engine and has also provided an opportunity for me to learn how I might be able to develop games for the google play store.
 
-The app consists of making an object move, getting a score, and connecting to a network wirelessly.
+The app consists of making an object move, getting a score, and connecting to a network wirelessly. I was only able to connect on the local, internal ip addresss, "127.0.0.1", but the way I did so proves that a network connection was happening though I didn't connect to some other device via the internet. My testing didn't confirm that other connection types were possible, however my base server/client code is robust enough to handle those connections so long as the correct ports and addresses are provided. Everyone would have to supply their own addresses anyway, so I don't think this a major concern.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gRTyXrCHCgo)
 
 # Development Environment
 
