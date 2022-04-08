@@ -32,4 +32,4 @@ The game itself is very simple at the moment. It consists of a single red block 
 * Communication; send scores and receive score board. (Send score from game (client) to server, and send back all scores (from all clients) to every game/client involved).
 * Add to game; new game mechanics
 
-*Note: I had intended to make a tetris game with a leaderboard. The server would store the list of all the player scores and the player could access the updated leaderboard from the server. Even though I didn't complete that idea, I may work on something similar in the future, especially in regards to game play. (This is what I meant by the "Communication" bullet point above* 
+*Note: I had intended to make a tetris game with a leaderboard. The server would store the list of all the player scores and the player could access the updated leaderboard from the server. Even though I didn't complete that idea, I may work on something similar in the future, especially in regards to game play. (This is what I meant by the "Communication" bullet point above)* 
