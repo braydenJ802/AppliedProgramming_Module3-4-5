@@ -1,7 +1,7 @@
 # AppliedProgramming_Module3-4-5
 
 
-This is a multi-faceted project combining modules 3, 4, and 5 (Networking, Mobile App, Game Platform). This is a small game app that can be run on mobile via the apk file or on windows via the exe file. This was created with the Godot game engine.
+This is a multi-faceted project combining modules 3, 4, and 5 (Networking, Mobile App, Game Platform). This is the final version, featuring android app capability. This is a small game app that can be run on mobile via the apk file or on windows via the exe file. This was created with the Godot game engine.
 
 # Overview
 
